@@ -25,8 +25,6 @@ This is a compilation of Data Maturity models, resources, examples and communiti
 ## Education and Curriculum
 
 
-## Living Models (*actual* Governance Bodies in the real world)
-
 
 ## Communities and working groups
 * [Research Data Alliance](https://github.com/RDA-FAIR/FAIR-data-maturity-model-WG/tree/master/v0.01) – This Working Group will build on top and combine the most salient characteristics of existing efforts for measuring the readiness and implementation level of a dataset vis-à-vis the FAIR data principles.
