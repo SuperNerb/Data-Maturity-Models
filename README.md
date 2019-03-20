@@ -10,6 +10,18 @@ This is a compilation of Data Maturity models, resources, examples and communiti
 
 * [Federal Government Data Maturity Model](https://www.ntis.gov/TheDataCabinet/assets/FDMM.pdf) - From the National Technical Information Service's Data Cabinet
 
+* [Mitre Capability Maturity Model](https://resources.sei.cmu.edu/asset_files/TechnicalReport/1993_005_001_16211.pdf) - Originally developed for software in 1993
+
+* [CMMI Institute's Data Management Maturity model](https://cmmiinstitute.com/data-management-maturity) - Proprietary model 
+
+* [DAMA-DMBOK Guide to the Data Management Body of Knowledge](https://dama.org/content/body-knowledge)
+
+* [DataFlux Data Governance Maturity model](http://www.fstech.co.uk/fst/whitepapers/The_Data_Governance_Maturity_Model.pdf)
+
+* [Enterprise Data Management Council's Data Management Capability Assessment Model](https://dgpo.org/wp-content/uploads/2016/06/EDMC_DCAM_-_WORKING_DRAFT_VERSION_0.7.pdf)
+
+*  [Gartner's Enterprise Information Management Maturity Model](https://github.com/joelparkerhenderson/maturity_models/blob/master/examples/eim/Gartner_EIM_Maturity_Model.md) 
+
 * [Open Data Institute's Open Data Maturity model](https://theodi.org/article/open-data-maturity-model-2/)
 
 *  [Community Capability Model Framework](https://communitymodel.sharepoint.com/Documents/CCMDIRWhitePaper-24042012.pdf) - The Community Capability Model Framework is a  tool  developed  by  UKOLN,  University  of  Bath,  and  Microsoft  Research  to  assist  institutions,  research  funders  and  researchers  in  growing  the  capability  of  their  communities  to  perform  data5intensive  research
