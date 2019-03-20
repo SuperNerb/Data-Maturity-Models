@@ -6,6 +6,11 @@ This is a compilation of Data Maturity models, resources, examples and communiti
 
 ## Models and standards:
 
+* [Performance Improvement Council Data Quality Maturity Model](https://www.pic.gov/sites/default/files/Data%20Quality%20Maturity%20Model%20and%20Example%20Practices%20Guidebook%20-%202016.pdf)
+
+* [Federal Government Data Maturity Model](https://www.ntis.gov/TheDataCabinet/assets/FDMM.pdf) - From the National Technical Information Service's Data Cabinet
+
+* [Open Data Institute's Open Data Maturity model](https://theodi.org/article/open-data-maturity-model-2/)
 
 *  [Community Capability Model Framework](https://communitymodel.sharepoint.com/Documents/CCMDIRWhitePaper-24042012.pdf) - The Community Capability Model Framework is a  tool  developed  by  UKOLN,  University  of  Bath,  and  Microsoft  Research  to  assist  institutions,  research  funders  and  researchers  in  growing  the  capability  of  their  communities  to  perform  data5intensive  research
 
